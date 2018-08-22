@@ -1,5 +1,0 @@
---- 
-
-- include: undeploy.yml
-- include: deploy.yml
-
